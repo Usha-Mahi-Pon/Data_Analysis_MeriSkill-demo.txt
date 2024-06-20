@@ -6,8 +6,6 @@ Project 2: Diabetes Patient Data Analysis with Jupyter Notebook
 
 Jupyter Notebook is ideal for analyzing data on diabetes patients. It provides a flexible, interactive environment for statistical analysis, identifying trends in blood sugar levels, medication adherence, and lifestyle impacts on disease progression. Integrating machine learning models, Jupyter Notebook predicts patient risk profiles and potential future health complications.
 
-Project 3: HR Analytics
-
 Project 3: HR Analytics with Power BI
 
 HR Analytics benefits significantly from Power BI's capabilities. The platform tracks metrics such as employee performance, retention rates, and recruitment effectiveness. Power BI's predictive analytics help forecast future HR needs, optimize talent management strategies, and enhance overall organizational efficiency. By identifying patterns and trends within employee data, Power BI empowers HR departments to make data-driven decisions, improving workforce dynamics and organizational outcomes. 
